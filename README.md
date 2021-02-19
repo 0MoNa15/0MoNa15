@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 # Zorayda Gutiérrez Montes :woman_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mona15/)](https://www.linkedin.com/in/mona15/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/story/mona15)](https://stackoverflow.com/story/mona15)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/0mona15/)](https://www.instagram.com/0mona15/)
 
 ### Hellooo! 👋 Welcome to my profile
 
