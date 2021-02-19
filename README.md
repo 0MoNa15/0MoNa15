@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 # I'm Zorayda Gutiérrez Montes :woman_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mona15/)](https://www.linkedin.com/in/mona15/)
+[![Slack Badge](https://img.shields.io/badge/-Slack-brown?style=flat-square&logo=Slack&logoColor=white&link=https://mona15workspace.slack.com/team/U01E5LWC3DH)](https://mona15workspace.slack.com/team/U01E5LWC3DH)
+[![MoNa15 Badge](https://img.shields.io/badge/-MoNa15-fuchsia?style=flat-square&logo=Vue.js&logoColor=white&link=https://http://www.mona15.com/)](https://http://www.mona15.com/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/story/mona15)](https://stackoverflow.com/story/mona15)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/0mona15/)](https://www.instagram.com/0mona15/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCggDFWhqmUaR6aZdfMZ4Bjg)](https://www.youtube.com/channel/UCggDFWhqmUaR6aZdfMZ4Bjg)
