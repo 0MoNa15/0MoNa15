@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on communities to learn languages or iOS.
 - 🤔 I’m looking for help with programming for iOS.
 - 💬 Ask me about development for android.
-- 📫 How to reach me: zgmona15@gmail.com.
+- 📫 How to reach me: zgmontes@mona15.com.
 - ⚡ Fun fact: I love arts with crafts.
