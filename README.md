@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about development for android.
 - 📫 How to reach me: zgmontes@mona15.com.
 - ⚡ Fun fact: I love arts with crafts.
+
+
+<a href="https://app.daily.dev/mona15"><img src="https://api.daily.dev/devcards/v2/OAEiRxEHnngOXOjmvLhRr.png?r=nha" width="356" alt="Zorayda's Dev Card"/></a>
